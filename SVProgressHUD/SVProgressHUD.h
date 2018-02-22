@@ -8,6 +8,8 @@
 #import <UIKit/UIKit.h>
 #import <AvailabilityMacros.h>
 
+#define SV_APP_EXTENSIONS 1
+
 extern NSString * _Nonnull const SVProgressHUDDidReceiveTouchEventNotification;
 extern NSString * _Nonnull const SVProgressHUDDidTouchDownInsideNotification;
 extern NSString * _Nonnull const SVProgressHUDWillDisappearNotification;
